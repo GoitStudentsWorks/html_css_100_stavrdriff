@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/inCode-first-project/",
+    "build": "vite build --base=/html_css_100_stavrdriff/",
     "preview": "vite preview"
   },
   "devDependencies": {
